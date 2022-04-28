@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26720" started-at="2022-04-16T06:10:39Z" finished-at="2022-04-16T06:11:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26720" started-at="2022-04-16T06:10:39Z" finished-at="2022-04-16T06:11:05Z">
+      <class name="org.base.DataDriven">
+        <test-method status="PASS" signature="tc01()[pri:0, instance:org.base.DataDriven@5702b3b1]" name="tc01" duration-ms="26603" started-at="2022-04-16T11:40:39Z" finished-at="2022-04-16T11:41:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+      </class> <!-- org.base.DataDriven -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

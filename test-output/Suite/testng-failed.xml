@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="passWord" value="98876"/>
+  <parameter name="userName" value="jack"/>
+  <test name="Test">
+    <parameter name="passWord" value="98876"/>
+    <parameter name="userName" value="jack"/>
+    <classes>
+      <class name="org.base.Testing1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Failed suite [Suite] -->
